@@ -2,7 +2,8 @@
 ### 支持普通版与社区版
 
 目前支持功能：<br>
-去除动漫之家部分广告、更新、青少年弹窗
+﹂去除动漫之家部分广告、更新、青少年弹窗<br>
+﹂阻止动漫之家乱强○粘贴板
 
 By iTsukezigen | 
 项目地址>[点击打开](https://github.com/cokkeijigen/FuckDMZJ)<
