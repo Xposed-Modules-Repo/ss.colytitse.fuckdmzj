@@ -6,4 +6,4 @@
 ﹂阻止动漫之家乱强○粘贴板；
 
 By iTsukezigen | 
-项目地址>[点击打开](https://github.com/cokkeijigen/FuckDMZJ)<
+项目地址 »[此处访问](https://github.com/cokkeijigen/FuckDMZJ)«
