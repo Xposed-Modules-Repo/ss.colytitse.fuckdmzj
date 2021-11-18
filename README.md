@@ -7,4 +7,5 @@
 
 By iTsukezigen | 
 项目地址 »[此处访问](https://github.com/cokkeijigen/FuckDMZJ)«
+
 ![Image text](https://raw.githubusercontent.com/Xposed-Modules-Repo/ss.colytitse.fuckdmzj/main/image.jpg)
