@@ -1,9 +1,11 @@
 # 动漫之家净化模块（FuckDMZJ）
-### 支持普通版与社区版
-
-目前支持功能：<br>
-﹂去除动漫之家部分广告、更新、青少年弹窗；<br>
-﹂阻止动漫之家乱强○粘贴板；
-#### By iTsukezigen | 项目地址 »[此处访问](https://github.com/cokkeijigen/FuckDMZJ)«
-
+## 主要功能
+### √去除更新<br>
+### √去除部分广告<br>
+### √阻止强奸粘贴板<br>
+### √去除青少年提示<br>
+### √看漫画时强制全屏<br>
+# 支持普通版与社区版
+![Image text](https://github.com/cokkeijigen/FuckDMZJ/blob/master/image0.png)<br>
+![Image text](https://github.com/cokkeijigen/FuckDMZJ/blob/master/image1.png)<br>
 ![Image text](https://raw.githubusercontent.com/Xposed-Modules-Repo/ss.colytitse.fuckdmzj/main/image.jpg)
