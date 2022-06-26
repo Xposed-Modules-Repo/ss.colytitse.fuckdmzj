@@ -1,4 +1,4 @@
-## FuckDMZJXposed - 大妈之家净化模块
+# FuckDMZJXposed - 大妈之家净化模块
 ![Image text](https://github.com/cokkeijigen/FuckDMZJ/blob/master/image0.png)<br>
 ![Image text](https://github.com/cokkeijigen/FuckDMZJ/blob/master/image1.png)<br>
 
